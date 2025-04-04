@@ -1,0 +1,22 @@
+2025-04-04 06:21:22.299417 - Received CBT.V508.FILE227.PDS from FILE227.XMI 
+2025-04-04 06:21:22.300506 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE227.PDS, moved to PDS/$$$#DATE
+2025-04-04 06:21:22.300660 - Found $DOC.txt (text/plain) in CBT.V508.FILE227.PDS, moved to PDS/$DOC
+2025-04-04 06:21:22.300796 - Found @FILE227.txt (text/plain) in CBT.V508.FILE227.PDS, moved to PDS/@FILE227
+2025-04-04 06:21:22.300923 - Found AOFF.txt (text/plain) in CBT.V508.FILE227.PDS, moved to PDS/AOFF
+2025-04-04 06:21:22.301045 - Found AON.txt (text/plain) in CBT.V508.FILE227.PDS, moved to PDS/AON
+2025-04-04 06:21:22.301177 - Found AUTHSVC.jcl (text/plain) in CBT.V508.FILE227.PDS, moved to PDS/AUTHSVC
+2025-04-04 06:21:22.301302 - Found AUTHSVC#.txt (text/plain) in CBT.V508.FILE227.PDS, moved to PDS/AUTHSVC#
+2025-04-04 06:21:22.301418 - Found AUTSVC.txt (text/plain) in CBT.V508.FILE227.PDS, moved to PDS/AUTSVC
+2025-04-04 06:21:22.301530 - Found BEGIN.txt (text/plain) in CBT.V508.FILE227.PDS, moved to PDS/BEGIN
+2025-04-04 06:21:22.301641 - Found CBT385.txt (text/plain) in CBT.V508.FILE227.PDS, moved to PDS/CBT385
+2025-04-04 06:21:22.301771 - Found CBT390.txt (text/plain) in CBT.V508.FILE227.PDS, moved to PDS/CBT390
+2025-04-04 06:21:22.301885 - Found CBT594.txt (text/plain) in CBT.V508.FILE227.PDS, moved to PDS/CBT594
+2025-04-04 06:21:22.302043 - Found D0.txt (text/plain) in CBT.V508.FILE227.PDS, moved to PDS/D0
+2025-04-04 06:21:22.302177 - Found D0D0.txt (text/plain) in CBT.V508.FILE227.PDS, moved to PDS/D0D0
+2025-04-04 06:21:22.302309 - Found ENDALL.txt (text/plain) in CBT.V508.FILE227.PDS, moved to PDS/ENDALL
+2025-04-04 06:21:22.302430 - Found HREADY.txt (text/plain) in CBT.V508.FILE227.PDS, moved to PDS/HREADY
+2025-04-04 06:21:22.302561 - Found IGC0025D.txt (text/plain) in CBT.V508.FILE227.PDS, moved to PDS/IGC0025D
+2025-04-04 06:21:22.302679 - Found LISTPW.txt (text/plain) in CBT.V508.FILE227.PDS, moved to PDS/LISTPW
+2025-04-04 06:21:22.302794 - Found SAVEALL.txt (text/plain) in CBT.V508.FILE227.PDS, moved to PDS/SAVEALL
+2025-04-04 06:21:22.302923 - Found UADS.txt (text/plain) in CBT.V508.FILE227.PDS, moved to PDS/UADS
+2025-04-04 06:21:22.303054 - Found XEQ.txt (text/plain) in CBT.V508.FILE227.PDS, moved to PDS/XEQ
